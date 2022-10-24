@@ -1,0 +1,77 @@
+p {
+  font-family: "Roboto Slab", serif;
+  color: #8c0859;
+  font-size: medium;
+
+}
+
+h1 {
+  font-family: "Dosis", sans-serif; 
+  color: #ae0303;
+}
+
+h2 {
+  font-family: "Dosis", sans-serif; 
+  color: #ffffff;
+}
+
+h3 {
+  font-family: "Dosis", sans-serif; 
+  color: #2984fa;
+}
+
+span {
+  content: "\2022";
+  font-size: larger;
+}
+
+/* a {
+  font-family: "Dosis";
+  color: #62e042;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+} */
+
+/* body {
+  background-color: #050000;
+  text-align: center;
+  margin: 50px;
+} */
+
+#name {font-family: "Dosis", sans-serif; 
+  color: #ffffff;}
+
+/* Available Fonts: 
+font-family: 'Comfortaa', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Roboto Slab', serif; 
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>*/
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #0c8b78;
+  color: white;
+}

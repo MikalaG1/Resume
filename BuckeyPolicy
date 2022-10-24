@@ -1,3 +1,5 @@
+/* Bucket policy for S3 static web hosting to allow public access to website */ 
+
 {
     "Version": "2012-10-17",
     "Id": "Policy1661277252056",
